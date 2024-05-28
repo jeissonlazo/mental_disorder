@@ -9,6 +9,4 @@ if horas_trabajadas>40:
 else:
     sueldo=horas_trabajadas*tarifa_hora
     print('su ingreso semanal',sueldo)
-    
-    
-    
+    print("hola")
